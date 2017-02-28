@@ -30,11 +30,11 @@ body{
 }
 #conteudo{
 	background-color:#3088f0; 
-    width:480px; 
+    width:800px; 
     float:left; 
-    height:400px; 
+    height:600px; 
     margin-top:10px;
-    overflow:auto;
+    
 }
 #conteudo p {
 	padding:10px 10px;
