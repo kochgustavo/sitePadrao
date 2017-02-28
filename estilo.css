@@ -1,0 +1,89 @@
+body{
+	background-color:#f0d048;
+	color:#000000;
+	font-family:Verdana,Arial,Helvetica;
+	font-size:16px;
+	text-align:justify;
+}
+#geral{
+	background-color:##f0d048;
+	margin:auto;
+	width:800px;
+}
+#topo{
+	background-image:url(simp.jpg);
+	height:160px;
+
+}
+#menu{
+	background-color:#3088f0;
+	height:60px;
+	margin-top:10px;
+	text-align:center;
+}
+#banner{
+	background-color:#3088f0;
+	width:320px;
+	float:right;
+	height:400px;
+	margin-top:10px;
+}
+#conteudo{
+	background-color:#3088f0; 
+    width:480px; 
+    float:left; 
+    height:400px; 
+    margin-top:10px;
+    overflow:auto;
+}
+#conteudo p {
+	padding:10px 10px;
+	text-indent:10px;
+	font-family:Helvetica;
+	font-size:1em;
+}
+#rodape{
+	background-color:
+	height:30px;
+	clear:both;
+	padding:10px 10px;
+	text-align:center;
+}
+#img{
+	float:left;
+	padding:10px 10px;
+}
+#img2{
+	float:right;
+	padding:10px 10px;
+}	
+#menu ul{
+	padding:8px;
+	position:0px;
+	list-style:none;
+}
+#menu ul li{
+	display:inline;
+	position:relative;
+	float:center;
+}
+#menu ul li a{
+	padding:5px 30px;
+	display:inline-block;
+	background-color:#3088f0;
+	text-decoration:none;
+	color:navy;
+	border:2px solid yellow;
+}
+#menu ul li a:hover{
+	padding:5px 30px;
+	display:inline-block;
+	background-color:gold;
+	text-decoration:none;
+	color:black;
+	font-weight:bold;
+	border-top:3px solid yellow;
+}
+.imagem{
+	width:100px;
+}
